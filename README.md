@@ -1,1 +1,1 @@
-Estes são projetos básicos que adiciono aqui 
+são uma calculadora é uma tabuada simples
